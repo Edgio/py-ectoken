@@ -27,8 +27,8 @@ pip install -r requirements.txt
 
 ### Help
 ```sh
->./ectoken3.py -h
-usage: ectoken3.py
+>./ectoken.py -h
+usage: ectoken.py
 
 Generate Random Security Config Post from Template.
 
@@ -45,7 +45,7 @@ optional arguments:
 
 Encrypt clear text token `<token>` with key: `<key>`:
 ```sh
-~>./ectoken3.py -k MY_SECRET_KEY -t MY_COOL_TOKEN
+~>./ectoken.py -k MY_SECRET_KEY -t MY_COOL_TOKEN
 26oBaqCbdLyJD5RjsHBYGsIDQGOehPo2rZfGwGey-ubhciakzPwRIdQ
 ```
 
@@ -53,7 +53,7 @@ Encrypt clear text token `<token>` with key: `<key>`:
 
 Decrypt ciphertext token `<token>` with key: `<key>`:
 ```sh
-~>./ectoken3.py -k MY_SECRET_KEY -t '26oBaqCbdLyJD5RjsHBYGsIDQGOehPo2rZfGwGey-ubhciakzPwRIdQ' -d
+~>./ectoken.py -k MY_SECRET_KEY -t '26oBaqCbdLyJD5RjsHBYGsIDQGOehPo2rZfGwGey-ubhciakzPwRIdQ' -d
 MY_COOL_TOKEN
 ```
 
