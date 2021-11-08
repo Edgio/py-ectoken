@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-Copyright Verizon.
+Copyright Edgecast Inc.
 
 file: ectoken3.py
 details: python implementation of EdgeCast v3 token
