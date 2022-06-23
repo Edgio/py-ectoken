@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 '''
-Copyright Edgecast Inc.
+Copyright Edgio Inc.
 
 file: ectoken3.py
-details: python implementation of EdgeCast v3 token
+details: python implementation of Edgio v3 token
 
 References:
 1. Using cryptography for aes-gcm:

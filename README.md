@@ -1,5 +1,5 @@
 # py-ectoken
-> _Python implementation of EdgeCast token (`ectoken`)_
+> _Python implementation of Edgio token (`ectoken`)_
 
 
 ## Table of Contents
@@ -13,7 +13,7 @@
 
 ## Background
 
-Python implementation of the "EdgeCast Token" (`ectoken`) -see main repo [ectoken](https://github.com/EdgeCast/ectoken) for more details.
+Python implementation of the "Edgio Token" (`ectoken`) -see main repo [ectoken](https://github.com/edgioinc/ectoken) for more details.
 
 ## Install
 
